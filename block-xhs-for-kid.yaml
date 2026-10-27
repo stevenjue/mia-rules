@@ -1,0 +1,5 @@
+# 小红书域名拦截
+DOMAIN-SUFFIX,xiaohongshu.com,REJECT
+DOMAIN-SUFFIX,xhslink.com,REJECT
+DOMAIN-SUFFIX,xhscdn.com,REJECT
+DOMAIN-SUFFIX,xhscdn.net,REJECT
